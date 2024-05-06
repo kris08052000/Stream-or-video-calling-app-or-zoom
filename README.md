@@ -1,3 +1,12 @@
+https://stream-videocallingapp-zoomclone.vercel.app/    you can signin to this above link and check out our stream website or video call.
+
+NEXT.js, Typescript, Clerk for authentication, Stream API for website backend streaming process.
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
